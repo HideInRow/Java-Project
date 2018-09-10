@@ -48,6 +48,3 @@ ONE NIGHT电影网站
 
 5、多思考用户的需求，增加相应的功能模块。
 
-五、项目展示
-
-![image](https://github.com/HideInRow/repositoryProject/raw/master/images/图片1.png)
