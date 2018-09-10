@@ -52,7 +52,7 @@ ONE NIGHT电影网站
 
 电影网站首页（前台）【包含推广渠道】：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%871.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%871.png)
 
 关于本站（前台）：
 
