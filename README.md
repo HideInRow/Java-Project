@@ -56,44 +56,44 @@ ONE NIGHT电影网站
 
 关于本站（前台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%872.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%872.png)
 
 安全退出（后台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%873.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%873.png)
 
 添加友情链接信息（后台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%874.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%874.png)
 
 对电影进行上架处理（后台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%875.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%875.png)
 
 添加网站动态信息（后台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%876.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%876.png)
 
 添加电影信息（后台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%877.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%877.png)
 
 电影信息动态管理（后台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%878.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%878.png)
 
 电影详细信息/下载（前台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%879.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%879.png)
 
 电影网站动态信息列表（前台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%8710.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%8710.png)
 
 电影来源网站信息列表（前台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%8711.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%8711.png)
 
 网站收录电影列表（前台）：
 
-![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%8712.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%8712.png)
