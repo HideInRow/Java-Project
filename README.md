@@ -50,4 +50,4 @@ ONE NIGHT电影网站
 
 五、项目截图展示
 
-！[images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%878.png)
+![电影详细信息（后台）](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%878.png)
