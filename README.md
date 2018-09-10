@@ -50,5 +50,15 @@ ONE NIGHT电影网站
 
 五、项目截图展示
 
-![电影详细信息（后台）](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%878.png)
-![电影详细信息（后台）](https://github.com/HideInRow/ONE-Night-/blob/master/图片1.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%81.png)
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%872.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%873.png)
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%874.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%875.png)
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%876.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%877.png)
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%878.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%879.png)
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%8710.png）
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%8711.png)
+![images](https://github.com/HideInRow/ONE-Night-/blob/master/%E5%9B%BE%E7%89%8712.png）
